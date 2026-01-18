@@ -5,7 +5,7 @@ export default function Hero() {
     <section className="relative">
       <div className="mx-auto max-w-8xl px-6 pt-40 pb-10">
         {/* Title */}
-        <h1 className="font-serif text-center text-6xl leading-tight tracking-tight sm:text-8xl">
+        <h1 className="font-serif text-center text-6xl leading-tight tracking-tight sm:text-6xl">
           Research-driven analysis of financial systems,
           <br />
           incentives, and uncertainty.

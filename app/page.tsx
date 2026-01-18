@@ -4,13 +4,13 @@ import SectionHeader from "@/components/ui/ArchiveHeader";
 import ProjectCard from "@/components/ui/ProjectCards";
 const projects = [
   {
-    title: "ESG Incentives and Control Theory",
+    title: "Structural Modeling of ESG Investment",
     subtitle:
-      "Notes toward a dynamic control theoretic model of ESG investment incentives",
+      "A conceptual and formal sketch toward modeling ESG investment under uncertainty and externalities",
     description:
-      "Working notes exploring incentives, observability, and long-horizon control.",
+      "An early-stage research paper proposing a dynamic, partially observed model of ESG incentives, signaling, and coordination.",
     typeLabel: "Working Paper",
-    pdfUrl: "/pdfs/esg-incentives.pdf",
+    pdfUrl: "/pdfs/esg_paper_v1.pdf",
     variant: "plain" as const,
   },
   {
